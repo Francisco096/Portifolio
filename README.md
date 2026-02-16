@@ -33,4 +33,4 @@ Este é um site **responsivo** e interativo, desenvolvido com foco em HTML semâ
 ├── js/
 │   └── script.js       # Lógica (Maps, Tema, Animações)
 └── assets/
-    └── [sua-foto].jpeg # Imagens do projeto
+    └── WhatsApp Image 2025-11-23 at 17.58.44.jpeg # Imagens do projeto
