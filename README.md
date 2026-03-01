@@ -4,22 +4,20 @@ Bem-vindo ao repositório do meu site portfólio pessoal! Este projeto foi desen
 
 ## 🚀 Sobre o Projeto
 
-Este é um site **responsivo** e interativo, desenvolvido com foco em HTML semântico, CSS moderno e JavaScript. O objetivo é demonstrar competências em desenvolvimento web, incluindo manipulação do DOM, consumo de APIs e design de interfaces.
+Este é um site **responsivo** e interativo, desenvolvido com foco em HTML semântico, CSS moderno e JavaScript. O objetivo é demonstrar competências em desenvolvimento web, incluindo manipulação do DOM e design de interfaces.
 
 ### ✨ Funcionalidades Principais
 
 * **Design Responsivo:** Layout adaptável para dispositivos móveis e desktops.
 * **Modo Escuro (Dark Mode):** Alternância de tema com persistência de preferência do usuário (via `localStorage`).
 * **Animações:** Barras de progresso de habilidades animadas ao carregar.
-* **Geolocalização:** Integração com a **Google Maps API** para exibir localização e funcionalidade de "Mostrar onde estou".
 * **Formulário de Contato:** Validação de campos e simulação de envio com feedback visual.
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica.
 * **CSS3:** Estilização, Flexbox, Grid Layout, Variáveis CSS e Media Queries.
-* **JavaScript (ES6+):** Lógica de interação, manipulação de eventos e APIs.
-* **Google Maps JavaScript API:** Integração de mapas dinâmicos.
+* **JavaScript (ES6+):** Lógica de interação, manipulação de eventos.
 * **Font Awesome:** Ícones vetoriais.
 * **Google Fonts:** Tipografia (Fonte 'Poppins').
 
